@@ -1,2 +1,4 @@
-# AplikasiPenghitungUmur
- Latihan 2 - Sendi Pratama (2210010529)
+# BIODATA DIRI
+ Nama   : Sendi Pratama
+ NPM    : 2210010529
+ Kelas  : 5B Reguler Banjarbaru
