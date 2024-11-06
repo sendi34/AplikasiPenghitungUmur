@@ -1,8 +1,8 @@
 # BIODATA DIRI
 
-- Nama      : Sendi Pratama
-- NPM       : 2210010529
-- Kelas     : 5B Reguler Banjarbaru
+Nama      : Sendi Pratama<br>
+NPM       : 2210010529<br>
+Kelas     : 5B Reguler Banjarbaru<br>
 
 
 ## TAMPILAN APLIKASI
